@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritsz123&label=Profile%20views&color=0e75b6&style=flat" alt="ritsz123" /> </p>
 
-- 🔭 I’m currently interning at **FieldAssist**
+- 🔭 I’m currently working at **FieldAssist**
 
 - 🌱 I’m currently learning **Flutter, React & Express JS**
 
